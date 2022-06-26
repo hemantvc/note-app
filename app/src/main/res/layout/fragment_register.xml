@@ -5,6 +5,12 @@
     android:layout_height="match_parent"
     tools:context=".RegisterFragment">
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Registration Fragment" />
+
     <TextView
         android:id="@+id/txtRedirect"
         android:layout_width="match_parent"
